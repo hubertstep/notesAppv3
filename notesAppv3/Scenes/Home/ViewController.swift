@@ -1,18 +1,3 @@
-//
-//  ViewController.swift
-//  notesAppv3
-//
-//  Created by Maja Szczypuła on 15/07/2023.
-//
-
-
-
-//
-//  EntryViewController.swift
-//  notesAppv3
-//
-//  Created by Maja Szczypuła on 16/07/2023.
-//
 
 import UIKit
 

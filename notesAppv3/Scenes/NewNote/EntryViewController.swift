@@ -1,7 +1,8 @@
 import UIKit
+import RealmSwift
 
 class EntryViewController: UIViewController {
-    
+
     @IBOutlet var titleField: UITextField!
     @IBOutlet var noteField: UITextView!
     
